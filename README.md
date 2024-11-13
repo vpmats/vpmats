@@ -9,7 +9,7 @@
 
 <h3 align="left">Conecte-se Comigo:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/vascomatos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vasco matos" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/VascoMatos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vasco matos" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vascooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vascooo" height="30" width="40" /></a>
 </p>
 
