@@ -5,7 +5,7 @@
 
 - 🌱 Estou a aprender **.NET, VisualBasic, Python**
 
-- 📫 Contacto **vascomatos761@gmail.com**
+- 📫 Contacto: **vascomatos761@gmail.com**
 
 <h3 align="left">Conecte-se Comigo:</h3>
 <p align="left">
